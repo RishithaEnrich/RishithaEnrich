@@ -56,8 +56,8 @@ Hei.. Wanna Contact me :telephone_receiver:  Try these ..
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/dereknguyen269/dereknguyen269/master/images/nodejs.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
- <code><img height="50" src="https://w7.pngwing.com/pngs/363/962/png-transparent-react-native-hd-logo-thumbnail.png"></code>
-  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laraval/laraval.png"></code>
+ <code><img height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYFZQXT4kEYUjbUhmNMYG_eombc9m6Q1bukCx2-10n8nN3YqXLO4lnzCYMIe6IWLJjhmQ&usqp=CAU)"></code>
+  <code><img height="50" src="https://pbs.twimg.com/profile_images/1163911054788833282/AcA2LnWL_400x400.jpg"></code>
  <code><img height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/flutter/flutter.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/android/android.png"></code>
 
