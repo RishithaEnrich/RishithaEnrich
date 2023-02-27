@@ -3,7 +3,7 @@
 ### Hi! 👋 🤓
 
  I'm [Rishitha Adithya](https://rishitha-gunawardana.web.app) , 
- <br> Software Engineer🧑‍💻  ,  designer👨‍💻 ,  web devoloper🌐 ,  :iphone: Android Developer   and a   Traveler🚶‍ 
+ <br> Software Engineer🧑‍💻  ,  Designer👨‍💻 ,  Web Devoloper🌐 ,  :iphone: Android/IOS Developer and a Traveler🚶‍ 
 
 About Some Personal Stuff,
 
@@ -12,7 +12,7 @@ About Some Personal Stuff,
 - 👨‍💻 Love to Solve Problems...
 - 👨‍🎨 And Also Im a Fast Learner...
 - 💗 Love to Enjoy ...  
-- :open_mouth: oh totally Forgot :red_car: I Love Long RIdes Wanna Join me ?? ..
+- :open_mouth: oh totally Forgot :red_car: I Love Looooong Rides Wanna Join me ?? ..
 <br>
 
 <br/>
